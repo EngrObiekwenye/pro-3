@@ -1,0 +1,6 @@
+ubuntu@ip-172-31-31-236:~$ cd Todo
+ubuntu@ip-172-31-31-236:~/Todo$ ls
+index.js  models  node_modules  package-lock.json  package.json  routes
+ubuntu@ip-172-31-31-236:~/Todo$ node index.js
+Server running on port 5000
+Database connected successfully
